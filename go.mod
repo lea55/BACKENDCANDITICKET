@@ -1,0 +1,3 @@
+module BACKENDCANDITICKET
+
+go 1.18
