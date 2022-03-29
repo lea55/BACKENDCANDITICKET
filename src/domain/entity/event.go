@@ -1,4 +1,4 @@
-package organizer
+package entity
 
 import (
 	"time"
