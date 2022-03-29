@@ -1,4 +1,4 @@
-package organizer
+package entity
 
 type Organizer struct {
 	Name            string `json:"name"`
