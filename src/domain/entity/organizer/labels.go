@@ -1,4 +1,4 @@
-package entity
+package organizer
 
 type LabelEventItem struct {
 	Name        string `json:"name"`

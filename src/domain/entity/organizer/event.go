@@ -1,6 +1,8 @@
-package entity
+package organizer
 
-import "time"
+import (
+	"time"
+)
 
 type Event struct {
 	ID               string              `json:"id"`
