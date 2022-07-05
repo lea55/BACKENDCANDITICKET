@@ -3,8 +3,8 @@ package useruc
 import (
 	"time"
 
-	"github.com/lea55/BACKENDCANDITICKET/packages/rol/domain"
 	rol "github.com/lea55/BACKENDCANDITICKET/src/packages/rol/domain"
+	user "github.com/lea55/BACKENDCANDITICKET/src/packages/user/domain"
 )
 
 type Mapper struct{}

@@ -5,6 +5,7 @@ import (
 
 	"github.com/golang-jwt/jwt"
 	"github.com/lea55/BACKENDCANDITICKET/src/global/core"
+	user "github.com/lea55/BACKENDCANDITICKET/src/packages/user/domain"
 	"github.com/pkg/errors"
 )
 
