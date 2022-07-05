@@ -18,6 +18,6 @@ type Event struct {
 	Active           bool                `json:"active"`
 	Period           bool                `json:"period"`
 	LabelEvent       []LabelEventItem    `json:"label_event"`
-	OrganizerProfile []Organizer         `json:"organizer_profile"`
+	OrganizerProfile []ProfileOrganizer  `json:"organizer_profile"`
 	CategorySupport  CategorySupportItem `json:"category_support"`
 }

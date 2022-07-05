@@ -1,6 +1,6 @@
 package entity
 
-type Organizer struct {
+type ProfileOrganizer struct {
 	Name            string `json:"name"`
 	Site            string `json:"site"`
 	ImgOrganizer    string `json:"img_organizer"`
